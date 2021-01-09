@@ -1,3 +1,2 @@
-# C-_List-Demo
-
-This is a List Demo in C++ for Linux Standard.
+#C++ List Demo App
+This is a List Demo App in C++
